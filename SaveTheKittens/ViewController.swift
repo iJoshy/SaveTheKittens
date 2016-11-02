@@ -16,6 +16,11 @@ class ViewController: UIViewController {
         print("Just added this change")
         print("Git is unbelieveably awesome")
     }
+    
+    func savekittens()
+    {
+        print("Time has come to save the kittens")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
