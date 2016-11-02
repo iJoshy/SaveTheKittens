@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     func savekittens()
     {
         print("Time has come to save the kittens")
+        print("check this out")
     }
 
     override func didReceiveMemoryWarning() {
